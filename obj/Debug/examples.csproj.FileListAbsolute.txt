@@ -1,0 +1,51 @@
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll.config
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\examples.exe
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\examples.pdb
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\csat.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Debug\csat.pdb
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\CSatExamples.Menu.resources
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CopyComplete
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.exe
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.pdb
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll.config
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\examples.exe
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\examples.pdb
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\csat.dll
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\bin\Debug\csat.pdb
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csprojResolveAssemblyReference.cache
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CoreCompileInputs.cache
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CopyComplete
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.exe
+C:\Users\CIO\Desktop\csat-opentk-3d-master\examples\obj\Debug\examples.pdb
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll.config
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\examples.exe
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\examples.pdb
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\csat.dll
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\OpenTK.dll
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\bin\Debug\csat.pdb
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\obj\Debug\examples.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\obj\Debug\examples.csproj.CopyComplete
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\obj\Debug\examples.exe
+C:\Users\Андрей\Desktop\IGS3\csat-opentk-3d-master\examples\obj\Debug\examples.pdb
+C:\Users\Андрей\Desktop\Итоговый проект\bin\Debug\examples.exe
+C:\Users\Андрей\Desktop\Итоговый проект\bin\Debug\examples.pdb
+C:\Users\Андрей\Desktop\Итоговый проект\bin\Debug\csat.dll
+C:\Users\Андрей\Desktop\Итоговый проект\bin\Debug\OpenTK.dll.config
+C:\Users\Андрей\Desktop\Итоговый проект\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Андрей\Desktop\Итоговый проект\obj\Debug\examples.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Итоговый проект\obj\Debug\examples.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Итоговый проект\obj\Debug\examples.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Итоговый проект\obj\Debug\examples.exe
+C:\Users\Андрей\Desktop\Итоговый проект\obj\Debug\examples.pdb

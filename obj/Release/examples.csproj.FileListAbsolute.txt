@@ -1,0 +1,12 @@
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\OpenTK.Compatibility.dll.config
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\OpenTK.dll.config
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\examples.exe
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\csat.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\OpenTK.Compatibility.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\bin\Release\OpenTK.dll
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\examples.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\CSatExamples.Menu.resources
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\examples.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\examples.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\examples.csproj.CopyComplete
+C:\Users\Андрей\Desktop\csat-opentk-3d-master\examples\obj\Release\examples.exe

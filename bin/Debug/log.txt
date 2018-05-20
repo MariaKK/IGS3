@@ -1,0 +1,212 @@
+[10:46:33]: light added to world.
+[10:46:33]: MaterialName: Material_plainsky_right.jpg
+[10:46:33]: MaterialName: Material_plainsky_back.jpg
+[10:46:33]: MaterialName: Material_plainsky_left.jpg
+[10:46:33]: MaterialName: Material_plainsky_top.jpg
+[10:46:33]: MaterialName: Material_plainsky_bottom.jpg
+[10:46:33]: MaterialName: Material_plainsky_front.jpg
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: AllocVBO: (verts:6 indices:6)
+[10:46:33]: Cube.006 added to skybox.
+[10:46:33]: Cube.005 added to skybox.
+[10:46:33]: Cube.004 added to skybox.
+[10:46:33]: Cube.003 added to skybox.
+[10:46:33]: Cube.002 added to skybox.
+[10:46:33]: Cube.001 added to skybox.
+[10:46:33]: Object: skybox  meshes: 6
+[10:46:33]: Texture: sky/sky_bottom.jpg
+[10:46:33]: Texture: sky/sky_left.jpg
+[10:46:33]: Texture: sky/sky_back.jpg
+[10:46:33]: Texture: sky/sky_right.jpg
+[10:46:33]: Texture: sky/sky_top.jpg
+[10:46:33]: Texture: sky/sky_front.jpg
+[10:46:33]: skybox added to world.
+[10:46:33]: MaterialName: Material_DARKWOOD.JPG_cartex.jpg
+[10:46:33]: Texture: cartex.jpg
+[10:46:33]: MaterialName: Material.001_GRAPHITI_cartex.jpg.001
+[10:46:33]: AllocVBO: (verts:108 indices:108)
+[10:46:33]: AllocVBO: (verts:108 indices:108)
+[10:46:33]: AllocVBO: (verts:108 indices:108)
+[10:46:33]: AllocVBO: (verts:108 indices:108)
+[10:46:33]: AllocVBO: (verts:108 indices:108)
+[10:46:33]: AllocVBO: (verts:456 indices:456)
+[10:46:33]: Circle.005_Circle.007 added to car.
+[10:46:33]: Circle_Circle.006 added to car.
+[10:46:33]: Circle.002_Circle.005 added to car.
+[10:46:33]: Circle.004 added to car.
+[10:46:33]: Circle.003 added to car.
+[10:46:33]: Plane added to car.
+[10:46:33]: Object: car  meshes: 6
+[10:46:33]: MaterialName: None_2.jpg
+[10:46:33]: Texture: 2.jpg
+[10:46:33]: AllocVBO: (verts:540 indices:540)
+[10:46:33]: GLSL: toon.vert toon.frag
+[10:46:33]: Sphere added to sprite1.
+[10:46:33]: Object: sprite1  meshes: 1
+[10:46:33]: sprite1 added to world.
+[10:46:33]: MaterialName: None_2.jpg
+[10:46:33]: AllocVBO: (verts:540 indices:540)
+[10:46:33]: GLSL: toon.vert toon.frag
+[10:46:33]: Sphere added to sprite2.
+[10:46:33]: Object: sprite2  meshes: 1
+[10:46:33]: sprite2 added to world.
+[10:46:33]: MaterialName: None_2.jpg
+[10:46:33]: AllocVBO: (verts:540 indices:540)
+[10:46:33]: GLSL: toon.vert toon.frag
+[10:46:33]: Sphere added to sprite3.
+[10:46:33]: Object: sprite3  meshes: 1
+[10:46:33]: sprite3 added to world.
+[10:46:33]: MaterialName: None_2.jpg
+[10:46:33]: AllocVBO: (verts:540 indices:540)
+[10:46:33]: GLSL: toon.vert toon.frag
+[10:46:33]: Sphere added to sprite4.
+[10:46:33]: Object: sprite4  meshes: 1
+[10:46:33]: sprite4 added to world.
+[10:46:33]: MaterialName: None_2.jpg
+[10:46:33]: AllocVBO: (verts:540 indices:540)
+[10:46:33]: GLSL: toon.vert toon.frag
+[10:46:33]: Sphere added to sprite5.
+[10:46:33]: Object: sprite5  meshes: 1
+[10:46:33]: sprite5 added to world.
+[10:46:33]: MaterialName: None_color_map.jpg
+[10:46:33]: Texture: 2.png
+[10:46:33]: MaterialName: None_EarthMap.jpg
+[10:46:33]: Texture: chrmwarp.jpg
+[10:46:33]: MaterialName: None_CORIGATE.JPG
+[10:46:33]: Texture: jupiter2.jpg
+[10:46:33]: MaterialName: None_DARKWOOD.JPG
+[10:46:33]: Texture: 3.png
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:60 indices:60)
+[10:46:33]: Cylinder.003 added to lock1.
+[10:46:33]: Cylinder.002 added to lock1.
+[10:46:33]: Cylinder.001 added to lock1.
+[10:46:33]: Cylinder added to lock1.
+[10:46:33]: Cube.002 added to lock1.
+[10:46:33]: Cube.001 added to lock1.
+[10:46:33]: Cube added to lock1.
+[10:46:33]: Object: lock1  meshes: 7
+[10:46:33]: lock1 added to world.
+[10:46:33]: MaterialName: None_color_map.jpg
+[10:46:33]: MaterialName: None_EarthMap.jpg
+[10:46:33]: MaterialName: None_CORIGATE.JPG
+[10:46:33]: MaterialName: None_DARKWOOD.JPG
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:60 indices:60)
+[10:46:33]: Cylinder.003 added to lock2.
+[10:46:33]: Cylinder.002 added to lock2.
+[10:46:33]: Cylinder.001 added to lock2.
+[10:46:33]: Cylinder added to lock2.
+[10:46:33]: Cube.002 added to lock2.
+[10:46:33]: Cube.001 added to lock2.
+[10:46:33]: Cube added to lock2.
+[10:46:33]: Object: lock2  meshes: 7
+[10:46:33]: lock2 added to world.
+[10:46:33]: MaterialName: None_color_map.jpg
+[10:46:33]: MaterialName: None_EarthMap.jpg
+[10:46:33]: MaterialName: None_CORIGATE.JPG
+[10:46:33]: MaterialName: None_DARKWOOD.JPG
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:60 indices:60)
+[10:46:33]: Cylinder.003 added to lock3.
+[10:46:33]: Cylinder.002 added to lock3.
+[10:46:33]: Cylinder.001 added to lock3.
+[10:46:33]: Cylinder added to lock3.
+[10:46:33]: Cube.002 added to lock3.
+[10:46:33]: Cube.001 added to lock3.
+[10:46:33]: Cube added to lock3.
+[10:46:33]: Object: lock3  meshes: 7
+[10:46:33]: lock3 added to world.
+[10:46:33]: MaterialName: None_color_map.jpg
+[10:46:33]: MaterialName: None_EarthMap.jpg
+[10:46:33]: MaterialName: None_CORIGATE.JPG
+[10:46:33]: MaterialName: None_DARKWOOD.JPG
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:60 indices:60)
+[10:46:33]: Cylinder.003 added to lock4.
+[10:46:33]: Cylinder.002 added to lock4.
+[10:46:33]: Cylinder.001 added to lock4.
+[10:46:33]: Cylinder added to lock4.
+[10:46:33]: Cube.002 added to lock4.
+[10:46:33]: Cube.001 added to lock4.
+[10:46:33]: Cube added to lock4.
+[10:46:33]: Object: lock4  meshes: 7
+[10:46:33]: lock4 added to world.
+[10:46:33]: MaterialName: None_color_map.jpg
+[10:46:33]: MaterialName: None_EarthMap.jpg
+[10:46:33]: MaterialName: None_CORIGATE.JPG
+[10:46:33]: MaterialName: None_DARKWOOD.JPG
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:324 indices:324)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:36 indices:36)
+[10:46:33]: AllocVBO: (verts:60 indices:60)
+[10:46:33]: Cylinder.003 added to lock5.
+[10:46:33]: Cylinder.002 added to lock5.
+[10:46:33]: Cylinder.001 added to lock5.
+[10:46:33]: Cylinder added to lock5.
+[10:46:33]: Cube.002 added to lock5.
+[10:46:33]: Cube.001 added to lock5.
+[10:46:33]: Cube added to lock5.
+[10:46:33]: Object: lock5  meshes: 7
+[10:46:33]: lock5 added to world.
+[10:46:33]: AllocVBO: (verts:4 indices:6)
+[10:46:33]: ground added to world.
+[10:46:33]: car added to world.
+[10:46:43]: sprite3
+[10:46:43]: sprite3 removed from world.
+[10:46:44]: sprite4
+[10:46:44]: sprite4 removed from world.
+[10:46:44]: sprite5
+[10:46:44]: sprite5 removed from world.
+[10:46:45]: lock5
+[10:46:46]: pok!
+[10:46:46]: sprite2
+[10:46:46]: sprite2 removed from world.
+[10:47:3]: sprite1
+[10:47:3]: sprite1 removed from world.
+[10:47:3]: car
+[10:47:3]: lock5
+[10:47:5]: pok!
+[10:47:5]: car
+[10:47:8]: lock4
+[10:47:9]: pok!
+[10:47:9]: lock3
+[10:47:9]: pok!
+[10:47:12]: lock2
+[10:47:13]: pok!
+[10:47:13]: lock2
+[10:47:13]: pok!
+[10:47:21]: lock4
+[10:47:22]: pok!
+[10:47:22]: lock4
+[10:47:23]: pok!
+[10:47:30]: lock1
+[10:47:32]: pok!
+[10:47:32]: car
